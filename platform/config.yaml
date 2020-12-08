@@ -1,0 +1,6 @@
+- server:
+    ip  :   0.0.0.0
+    port:   80
+    timeout : 600
+    thread  : 3
+    logLevel: 1     #debug 1  info 2  warn 3 error 4
